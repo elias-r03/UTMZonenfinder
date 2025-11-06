@@ -6,8 +6,12 @@ Das UTM-System teilt die Erdoberfläche in 60 Zonen zu je 6° Länge ein, basier
 
 Die Anwendung bietet einen intuitiven Zugang zu zentralen Konzepten der Kartengeometrie und hilft besonders Lernenden, die räumliche Struktur des UTM-Systems direkt auf der Weltkarte nachvollziehen zu können.
 
-Benutze Sprachen/Bibliotheken:
+Benötigte Bibliotheken:
+Flask, Folium
 
-Python (Flask)
-JavaScript (Leaflet)
-HTML / CSS (Folium)
+Benutze Sprachen
+Python 
+JavaScript
+HTML / CSS 
+
+06.11.2025
